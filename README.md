@@ -1,4 +1,4 @@
-I'm Kiet and I'm a web developer in Quy Nhon City, Vietnam.
+My name is Kiet and I'm a web developer in Quy Nhon City, Vietnam.
 
 I graduated from Quy Nhon University (Vietnam) with majoring in Information Technology. I'm working for Hura Apps - Web App development team in Quy Nhon City (Vietnam). I'm familiar with Shopify, WordPress, Javascript, jQuery, PHP, MySQL,...
 
